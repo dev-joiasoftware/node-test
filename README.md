@@ -2,4 +2,3 @@
 <p style="color:red">MAIN BRANCH</p>
 ## Esempio applicazione
 
-### mod su github
